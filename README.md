@@ -101,6 +101,8 @@ Type exit to quit the chatbot at any time.
        "help": ["How can I assist you?", "Sure, I'm here to help."]
       }
 
+---
+
 ## 📷 Output
 ![Image](https://github.com/user-attachments/assets/e0cbdf41-a1de-42b4-8667-d85385c7035f)
 
